@@ -83,10 +83,10 @@ Author: <a alt="Tiago Marmitt" href="https://github.com/marmittfull">Tiago Marmi
 <p align="center">
 
   <a alt="Tiago Marmitt Linkedin" href="https://www.linkedin.com/in/tiago-marmitt-762bb61b0">
-    <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Victor%20Pereira%20Santos-blue?logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ti%C3%A3GO%20Marmitt-blue?logo=linkedin"/>
     </a>
   <a alt="Tiago Marmitt GitHub" href="https://github.com/marmittfull">
-  <img src="https://img.shields.io/badge/GitHub-joaovictorpsantos-lightgrey?logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-TiagoMarmitt-lightgrey?logo=github"/>
   </a>
 
 
